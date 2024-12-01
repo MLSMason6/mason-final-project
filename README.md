@@ -1,7 +1,7 @@
 # **Make Your Character!**
 
 ![App Screenshot](appshot.jpg)  
-_A placeholder for your app screenshot. Replace it with your actual image!_
+
 
 ## **Overview**
 Welcome to **Make Your Character!**, a dynamic, interactive app for creating and managing characters. Whether you're building a party for a fantasy adventure or organizing a team of heroes, this app has you covered.
