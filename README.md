@@ -1,6 +1,6 @@
 # **Make Your Character!**
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Your+App+Screenshot)  
+![App Screenshot](appshot.jpg)  
 _A placeholder for your app screenshot. Replace it with your actual image!_
 
 ## **Overview**
